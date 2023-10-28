@@ -9,14 +9,13 @@ export default function HeroSection() {
           <p className="tracking-widest">OFFER FOR THE BEST INTERIOR</p>
           <h1 className="py-4 text-3xl font-extrabold leading-tight text-gray-800 xl:text-6xl lg:text-4xl">
             Hey there
-            <br />
-            I am Divyansh Somani
+            <br />I am Divyansh Somani
           </h1>
           <p className="pb-6 text-gray-500 xl:pb-10">
             I am absolutely passionate about transforming spaces into stunning
             works of art. With my keen eye for design and love for creativity
-            I ve dedicated my life to the world of interior design. Whether it s
-            giving a cozy living room a whole new look turning a corporate
+            I&apos;ve dedicated my life to the world of interior design. Whether
+            it s giving a cozy living room a whole new look turning a corporate
             office into a productivity haven or curating the perfect ambiance
             for a trendy restaurant I thrive on bringing visions to life. I
             truly believe that every space has a unique story to tell and I m
