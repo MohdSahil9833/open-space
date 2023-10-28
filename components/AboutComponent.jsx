@@ -29,8 +29,8 @@ export default function AboutComponent() {
             Transform your residence into a sanctuary of beauty and comfort. Our
             expert interior designers will work their magic, crafting spaces
             that captivate your senses. With an eye for detail and a passion for
-            aesthetics, we'll infuse your home with personality and style,
-            creating a haven that's uniquely you. Let us turn your residence
+            aesthetics, we will infuse your home with personality and style,
+            creating a haven that is uniquely you. Let us turn your residence
             into an enchanting retreat, where every corner tells a story.
             Elevate your living experience with our design expertise, and watch
             as your home blossoms into a truly attractive haven
