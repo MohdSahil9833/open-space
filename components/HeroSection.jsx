@@ -8,21 +8,21 @@ export default function HeroSection() {
         <div className="lg:w-1/2 xl:py-14 lg:py-8">
           <p className="tracking-widest">OFFER FOR THE BEST INTERIOR</p>
           <h1 className="py-4 text-3xl font-extrabold leading-tight text-gray-800 xl:text-6xl lg:text-4xl">
-            Hey there!
+            Hey there
             <br />
-            I'm Divyansh Somani,
+            I am Divyansh Somani
           </h1>
           <p className="pb-6 text-gray-500 xl:pb-10">
-            I'm absolutely passionate about transforming spaces into stunning
-            works of art. With my keen eye for design and love for creativity,
-            I've dedicated my life to the world of interior design. Whether it's
-            giving a cozy living room a whole new look, turning a corporate
-            office into a productivity haven, or curating the perfect ambiance
-            for a trendy restaurant, I thrive on bringing visions to life. I
-            truly believe that every space has a unique story to tell, and I'm
+            I am absolutely passionate about transforming spaces into stunning
+            works of art. With my keen eye for design and love for creativity
+            I ve dedicated my life to the world of interior design. Whether it s
+            giving a cozy living room a whole new look turning a corporate
+            office into a productivity haven or curating the perfect ambiance
+            for a trendy restaurant I thrive on bringing visions to life. I
+            truly believe that every space has a unique story to tell and I m
             here to be its storyteller. My mission is to craft interiors that
             not only look breathtaking but also make a real difference in the
-            lives of those who experience them. Let's collaborate and turn your
+            lives of those who experience them. Let s collaborate and turn your
             space into a masterpiece that truly reflects your personality
             and aspirations!
           </p>
