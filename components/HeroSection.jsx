@@ -18,7 +18,7 @@ export default function HeroSection() {
             it s giving a cozy living room a whole new look turning a corporate
             office into a productivity haven or curating the perfect ambiance
             for a trendy restaurant I thrive on bringing visions to life. I
-            truly believe that every space has a unique story to tell and I m
+            truly believe that every space has a unique story to tell and I&apos;m
             here to be its storyteller. My mission is to craft interiors that
             not only look breathtaking but also make a real difference in the
             lives of those who experience them. Let s collaborate and turn your
