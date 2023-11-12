@@ -68,6 +68,7 @@ export default function CatalogueSection() {
             <p className="tracking-wider -rotate-90 ">{item.catagory} </p>
             <span className="">{item.id}</span>
           </div>
+          
         </div>
       ))}
     </div>

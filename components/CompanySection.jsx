@@ -8,7 +8,7 @@ export default function CompanySection() {
         First impressions matter, and your office or commercial space is a
         powerful influencer.We create environments that foster productivity,
         inspire creativity, and exude professionalism. Let us transform your
-        workspace into a reflection of your company&apos;s success.
+        workspace into a reflection of your companys success.
       </p>
       <div className="container flex flex-wrap items-center justify-between">
         <Image
@@ -16,14 +16,14 @@ export default function CompanySection() {
           width={128}
           height={128}
           alt=""
-          className="opacity-40"
+          className="opacity-40 py-2"
         />
         <Image
           src="/image/co2.png"
           width={128}
           height={128}
           alt=""
-          className="opacity-40"
+          className="opacity-40 py-2"
         />
         <Image
           src="/image/ac1.png"
